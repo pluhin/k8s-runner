@@ -10,7 +10,7 @@ jobs:
 
   build:
 
-    runs-on: github-runner-94c775594-hngsh
+    runs-on: self-hosted
 
     steps:
     - uses: actions/checkout@v2
